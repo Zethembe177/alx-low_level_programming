@@ -1,0 +1,1 @@
+This readme contains waYS on how to do if/else statements in C
